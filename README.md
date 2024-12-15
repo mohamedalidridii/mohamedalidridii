@@ -3,19 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Mohamed Ali Dridi, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
-  
+### <div align="center">I'm Mohamed Ali Dridi, a  CEO and founder of KOYOTEC DIGITAL 🚀</div>  
+   
 
-- 🔭 I’m 3D artist, Technologist, developer  
-  
-
-- 🌱 I’m currently learning more about Web 3  
+- 🌱 I’m currently doing persuing IT ENGINEERING 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: My life long love of coding has promoted a career from Mechanics Engineering to IT Engineering.  
+- ⚡ Fun fact: My life long love of coding has promoted a career from Mechatronics Engineering to IT Engineering.  
   
 
 <br/>  
