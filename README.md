@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mohamed Ali Dridi, a  CEO and founder of KOYOTEC DIGITAL 🚀</div>  
    
 
-- 🌱 I’m currently doing persuing IT ENGINEERING 
+- 🌱 I’m currently studying IT ENGINEERING at ESPRIT 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
