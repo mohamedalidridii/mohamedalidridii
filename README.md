@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Mohamed Ali Dridi, a  CEO and founder of KOYOTEC DIGITAL 🚀</div>  
-   
+### <div align="center">👋 Hey there! I'm **Mohamed Ali Dridi**, CEO & Founder of [KOYOTEC DIGITAL](https://koyotec.digital-agency) 🚀</div>  
 
-- 🌱 I’m currently studying IT ENGINEERING at ESPRIT 
-  
+---
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+💡 **About Me**
 
-- ⚡ Fun fact: My life long love of coding has promoted a career from Mechatronics Engineering to IT Engineering.  
-  
+- 🎓 I’m currently an **IT Engineering student at ESPRIT University** — originally graduated as a **Mechatronics Engineer**, then pivoted my career into **Software Engineering & DevOps**.  
+- 🧠 I’m passionate about **innovation, creativity, and high-performance web experiences**.  
+- 💻 My agency **KOYOTEC DIGITAL** is based in **Tunisia**, where we build **next-gen websites** with **Next.js, React, GSAP, Three.js**, and **cutting-edge animation** techniques.  
+- 🌍 We’re part of the top 1% most creative agencies locally — bringing **tech, design, and storytelling** together.  
+- ⚙️ Currently, I’m diving deeper into **Machine Learning** with the goal of building a model to **defend against scleroderma** (autoimmune disease).  
+- 🔐 I’m also passionate about **cybersecurity**, **DevOps**, and **containerization** (Docker, AKS, CI/CD, etc.).
 
-<br/>  
+---
 
 
 ## My Skill Set  
