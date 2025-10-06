@@ -87,7 +87,7 @@
 <div align="center">
   <a href="https://www.instagram.com/medaly.dridi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/med-ali-dridi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:medaly.dridi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@medaly.engineer" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
