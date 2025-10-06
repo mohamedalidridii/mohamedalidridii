@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">👋 Hey there! I'm **Mohamed Ali Dridi**, CEO & Founder of [KOYOTEC DIGITAL](https://koyotec.digital-agency) 🚀</div>  
+### <div align="center">👋 Hey there! I'm **Mohamed Ali Dridi** | I'm not perfect I'm original 🚀</div>  
 
 ---
 
