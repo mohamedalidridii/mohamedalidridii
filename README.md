@@ -12,9 +12,7 @@
 - 🧠 I’m passionate about **innovation, creativity, and high-performance web experiences**.  
 - 💻 My agency **KOYOTEC DIGITAL** is based in **Tunisia**, where we build **next-gen websites** with **Next.js, React, GSAP, Three.js**, and **cutting-edge animation** techniques.  
 - 🌍 We’re part of the top 1% most creative agencies locally — bringing **tech, design, and storytelling** together.  
-- ⚙️ Currently, I’m diving deeper into **Machine Learning** with the goal of building a model to **defend against scleroderma** (autoimmune disease).  
-- 🔐 I’m also passionate about **cybersecurity**, **DevOps**, and **containerization** (Docker, AKS, CI/CD, etc.).
-
+- ⚙️ I’m also passionate about **DevOps**, and **containerization** (Linux, Docker, AKS, CI/CD, etc.).
 ---
 
 ⚡ **Fun Facts**
