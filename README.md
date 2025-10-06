@@ -17,6 +17,13 @@
 
 ---
 
+⚡ **Fun Facts**
+
+- 🕺 You’ll often find me **debugging at 1 a.m.**  
+- 💬 I love creating **content & Reels** about tech, DevOps, and creativity.  
+- 🧩 I believe **technology should always feel like art** — that’s what KOYOTEC stands for.  
+
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -75,26 +82,19 @@
 
 <br/>  
 
+📫 **Let’s Connect**
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/mohamedalidridii" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/daly4111" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/med-ali-dridi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <a href="https://www.instagram.com/medaly.dridi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/med-ali-dridi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:medaly.dridi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</div>
 
-<a href="https://instagram.com/medaly.dridi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/DALY3DESIGN" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-</div>  
+---
+
+<div align="center">
+  <i>✨ “Code is art. Creativity is power.” ✨</i>
+</div>
   
 
 <br/>  
